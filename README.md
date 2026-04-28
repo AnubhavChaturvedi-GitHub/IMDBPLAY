@@ -1,6 +1,8 @@
 # IMDB Play Button
 
 A Chrome extension that adds a play button to IMDB movie pages, allowing quick navigation to playimdb.com.
+<img width="1571" height="961" alt="Screenshot 2026-04-28 at 10 54 35 AM" src="https://github.com/user-attachments/assets/1e153850-2e1e-4209-ac87-bf94d155577b" />
+
 
 ## Installation
 
